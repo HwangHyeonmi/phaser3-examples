@@ -17525,8 +17525,8 @@
       "": 1
     }
   },
-  "depth sorting\\depth sorting.js": {
-    "path": "depth sorting\\depth sorting.js",
+  "depth sorting\\Depth Sorting.js": {
+    "path": "depth sorting\\Depth Sorting.js",
     "titleWords": {
       "depth": 2,
       "sorting": 2
@@ -19704,8 +19704,8 @@
       "": 1
     }
   },
-  "display\\color\\hex string to color.js": {
-    "path": "display\\color\\hex string to color.js",
+  "display\\color\\Hex String To Color.js": {
+    "path": "display\\color\\Hex String To Color.js",
     "titleWords": {
       "display": 1,
       "color": 2,
@@ -19861,8 +19861,8 @@
       "": 1
     }
   },
-  "display\\color\\RGB string to color.js": {
-    "path": "display\\color\\RGB string to color.js",
+  "display\\color\\RGB String To Color.js": {
+    "path": "display\\color\\RGB String To Color.js",
     "titleWords": {
       "display": 1,
       "color": 2,
@@ -19896,8 +19896,8 @@
       "": 1
     }
   },
-  "display\\color\\value to color.js": {
-    "path": "display\\color\\value to color.js",
+  "display\\color\\Value To Color.js": {
+    "path": "display\\color\\Value To Color.js",
     "titleWords": {
       "display": 1,
       "color": 2,
@@ -20802,8 +20802,8 @@
       "": 1
     }
   },
-  "display\\masks\\camera inversed mask test 1.js": {
-    "path": "display\\masks\\camera inversed mask test 1.js",
+  "display\\masks\\Camera Inversed Mask Test 1.js": {
+    "path": "display\\masks\\Camera Inversed Mask Test 1.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -20918,8 +20918,8 @@
       "": 1
     }
   },
-  "display\\masks\\camera mask test 1.js": {
-    "path": "display\\masks\\camera mask test 1.js",
+  "display\\masks\\Camera Mask Test 1.js": {
+    "path": "display\\masks\\Camera Mask Test 1.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21023,8 +21023,8 @@
       "": 1
     }
   },
-  "display\\masks\\camera mask test 2.js": {
-    "path": "display\\masks\\camera mask test 2.js",
+  "display\\masks\\Camera Mask Test 2.js": {
+    "path": "display\\masks\\Camera Mask Test 2.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21129,8 +21129,8 @@
       "": 1
     }
   },
-  "display\\masks\\camera mask test 3.js": {
-    "path": "display\\masks\\camera mask test 3.js",
+  "display\\masks\\Camera Mask Test 3.js": {
+    "path": "display\\masks\\Camera Mask Test 3.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21248,8 +21248,8 @@
       "": 1
     }
   },
-  "display\\masks\\camera mask test 4.js": {
-    "path": "display\\masks\\camera mask test 4.js",
+  "display\\masks\\Camera Mask Test 4.js": {
+    "path": "display\\masks\\Camera Mask Test 4.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21353,8 +21353,8 @@
       "": 1
     }
   },
-  "display\\masks\\camera mask test 5.js": {
-    "path": "display\\masks\\camera mask test 5.js",
+  "display\\masks\\Camera Mask Test 5.js": {
+    "path": "display\\masks\\Camera Mask Test 5.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21510,8 +21510,8 @@
       "": 1
     }
   },
-  "display\\masks\\container mask test 1.js": {
-    "path": "display\\masks\\container mask test 1.js",
+  "display\\masks\\Container Mask Test 1.js": {
+    "path": "display\\masks\\Container Mask Test 1.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21621,8 +21621,8 @@
       "": 1
     }
   },
-  "display\\masks\\container mask test 2.js": {
-    "path": "display\\masks\\container mask test 2.js",
+  "display\\masks\\Container Mask Test 2.js": {
+    "path": "display\\masks\\Container Mask Test 2.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -21739,8 +21739,8 @@
       "": 1
     }
   },
-  "display\\masks\\container mask test 3.js": {
-    "path": "display\\masks\\container mask test 3.js",
+  "display\\masks\\Container Mask Test 3.js": {
+    "path": "display\\masks\\Container Mask Test 3.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -22607,8 +22607,8 @@
       "": 1
     }
   },
-  "display\\masks\\mask perf test.js": {
-    "path": "display\\masks\\mask perf test.js",
+  "display\\masks\\Mask Perf Test.js": {
+    "path": "display\\masks\\Mask Perf Test.js",
     "titleWords": {
       "display": 1,
       "masks": 1,
@@ -38309,8 +38309,8 @@
       "": 1
     }
   },
-  "game objects\\graphics\\many line stars.js": {
-    "path": "game objects\\graphics\\many line stars.js",
+  "game objects\\graphics\\Many Line Stars.js": {
+    "path": "game objects\\graphics\\Many Line Stars.js",
     "titleWords": {
       "game": 1,
       "objects": 1,
@@ -38467,8 +38467,8 @@
       "": 1
     }
   },
-  "game objects\\graphics\\multiple graphic objects.js": {
-    "path": "game objects\\graphics\\multiple graphic objects.js",
+  "game objects\\graphics\\Multiple Graphic Objects.js": {
+    "path": "game objects\\graphics\\Multiple Graphic Objects.js",
     "titleWords": {
       "game": 1,
       "objects": 2,
